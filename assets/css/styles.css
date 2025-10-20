@@ -670,6 +670,16 @@ img {
 /* Progresos específicos con colores y anchos */
 
 .skills__java::after {
+  width: 95%;
+  background-color: #3DDC84;
+}
+
+.skills__spring::after {
+  width: 95%;
+  background-color: #3DDC84;
+}
+
+.skills__intellij::after {
   width: 90%;
   background-color: #3DDC84;
 }
@@ -680,7 +690,7 @@ img {
 }
 
 .skills__xml::after {
-  width: 75%;
+  width: 80%;
   background-color: #3DDC84;
 }
 
@@ -700,17 +710,17 @@ img {
 }
 
 .skills__sql::after {
-  width: 85%;
+  width: 90%;
   background-color: #3DDC84;
 }
 
 .skills__flooter::after {
-  width: 0%;
+  width: 40%;
   background-color: #3DDC84;
 }
 
 .skills__dart::after {
-  width: 0%;
+  width: 40%;
   background-color: #3DDC84;
 }
 
@@ -725,7 +735,7 @@ img {
 }
 
 .skills__mysqlwb::after {
-  width: 80%;
+  width: 90%;
   background-color: #3DDC84;
 }
 
@@ -740,6 +750,17 @@ img {
 }
 
 .skills__netb::after {
+  width: 90%;
+  background-color: #3DDC84;
+}
+
+
+.skills__postman::after {
+  width: 90%;
+  background-color: #3DDC84;
+}
+
+.skills__swagger::after {
   width: 90%;
   background-color: #3DDC84;
 }
