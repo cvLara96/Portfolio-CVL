@@ -765,6 +765,16 @@ img {
   background-color: #3DDC84;
 }
 
+.skills__git::after {
+  width: 90%;
+  background-color: #3DDC84;
+}
+
+.skills__github::after {
+  width: 90%;
+  background-color: #3DDC84;
+}
+
 /* Responsive: en pantallas pequeñas, los bloques se ponen en columna */
 
 .skills__container {
